@@ -1,7 +1,9 @@
-import React from 'react'
+import React from "react";
 
 export default function Username() {
   return (
-    <div className='text-sm font-semibold tracking-normal'>JOnathan</div>
-  )
+    <div className="hidden text-sm font-semibold tracking-normal md:block">
+      Jonathan
+    </div>
+  );
 }
