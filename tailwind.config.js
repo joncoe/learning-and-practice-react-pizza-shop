@@ -2,8 +2,17 @@
 export default {
   content: [],
   theme: {
-    extend: {},
+    fontFamily: {
+      sans: ["Roboto Mono", "monospace"],
+    },
+    extend: {
+      colors: {
+        pizza: blue,
+      },
+      height: {
+        screen: "100dvh",
+      },
+    },
   },
   plugins: [],
-}
-
+};
