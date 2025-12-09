@@ -1,6 +1,6 @@
 # React Practice Project
 
-It pays to keep the sword sharp. This is a practice project per guided tutorial.
+It pays to keep the sword sharp. This is a practice project per guided course.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
